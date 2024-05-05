@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Nidhi Deshpande</h1>
-<h3 align="center">A passionate Python Developer.</h3>
+<h3 align="center">A passionate Full Stack Developer.</h3>
 <img align="right" alt="coding" width="400" src="https://myprofessor.ai/static/media/ChatGPTExams.724bcd7266532c738912.png">
 
-- 🔭 I’m honing **dev and Python skills.**
+- 🔭 I’m honing **dev and Java skills.**
 
-- 🌱 I’m currently learning **Python/Django**
+- 🌱 I’m currently learning **React JS/ SpringBoot**
 
 - 👯 I’m looking to collaborate on **Web development projects**
 
